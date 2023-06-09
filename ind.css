@@ -29,6 +29,11 @@ color: black;
     font-size: larger;
     margin: 200px;
 }
+.vid{
+    width: 250px;
+    height: 150px;
+    border: 5px solid;
+}
 .zone{
     font-size: 25px;
 appearance:calc();
