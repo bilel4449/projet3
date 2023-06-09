@@ -114,7 +114,8 @@ position: absolute;
     margin: 20px 20px 20px 20px;
 }
 .rad{
-
+  margin: 1%;
+  align-items: center;
 }
 .img{
     border-radius: 10px;
